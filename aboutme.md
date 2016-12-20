@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About this blog
+When I started to use R I founded that in each project I did, I had problems developing it and I needed to search solutions to these problems. For this reason I decided to create a blog. To have a site to put all the problems I founded and the steps I followed to solve them. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# About the author
+## Christian González Martel
 
-What else do you need?
+Assistant Professor (Tenure Track) in  Universidad de Las Palmas de Gran Canaria.
 
-### my history
+## Research Interest
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Financial Economics, Computational Economics.
+
+Applications of techniques based on machine learning e.g neural networks, genetic algorithms and genetic programming in the technical anaysis in financial markets.
+
+
+
