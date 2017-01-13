@@ -41,7 +41,7 @@ If everything is ok you have configured your blog.
 
 # Publishing posts
 
-1. Go to *_post* folder
+1. Go to **_post** folder
 2. Edit a existing file or create a new one. The file's name must start with a date in the format *yyyy-mm-dd* and the title of the post separated by a hyphen "-".
 3. The most importan part of the file is the heading. If you are creating a new file, you can copy and paste the heading of other post and modify the elements of the headings like *title:* and maybe other variables that the creator of the theme has considered neccesary to configure the post.
 4. Then write your post following the markdown language. Here you have a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you when you write in this language.
@@ -58,6 +58,9 @@ The easiest way to talk about a work done in R is using R.
 
 ## References:
 [Yihui Xie](http://yihui.name/knitr/demo/wordpress/)
+
 [A jekyll theme: Yekyll-now](https://github.com/barryclark/jekyll-now)
+
 [ Build A Blog With Jekyll And GitHub Pages by Barry Clark](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
 [Crea tu blog gratis en 10 minutos con Github y Jekyll (Spanish)](https://www.youtube.com/watch?v=lsvRyE5tPQQ)
