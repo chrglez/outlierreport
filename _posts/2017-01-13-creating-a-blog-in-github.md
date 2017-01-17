@@ -4,7 +4,7 @@ title: Creating a blog in Github
 tags: [Jekyll, Blog, Github]
 ---
 
-# Creating a blog in Github builded by jekyll.
+# Creating a blog in Github built by jekyll.
 
 As I told in the presentation post, when I started to use R I founded that in each project I did, I had problems developing it and I needed to search solutions to these problems. For this reason I decided to create a blog. To have a site to put all the problems I founded and the steps I followed to solve them. So, I thought that it would be appropiated tell how my first expirience creating a blog was.
 
